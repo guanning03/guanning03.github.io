@@ -10,6 +10,14 @@ main:
     page: https://schema-harness.github.io/
     image: ./assets/img/papers/schema.jpg
 
+  - title: "Tail-Likelihood Reinforcement Learning"
+    authors: Shrinivas Ramasubramanian, Daman Arora, Fahim Tajwar, <strong>Guanning Zeng</strong>, Qingyang Wu, Zhongzhu Zhou, Chenfeng Xu, Haiwen Feng, Yuda Song, Aarti Singh, Ruslan Salakhutdinov, J. Andrew Bagnell, Jeff Schneider, Andrea Zanette
+    conference_short: Preprint
+    conference: arXiv preprint, 2026.
+    pdf: https://arxiv.org/abs/2609.02987
+    page: https://zanette-labs.github.io/TailRL-website/
+    image: ./assets/img/papers/tailrl.jpg
+
   - title: "Understanding and Mitigating Premature Confidence for Better LLM Reasoning"
     authors: Jingchu Gai*, <strong>Guanning Zeng*</strong>, Christina Baek*, Chen Wu*, J. Zico Kolter, Andrej Risteski, Aditi Raghunathan
     conference_short: COLM 2026
