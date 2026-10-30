@@ -39,7 +39,7 @@ main:
     authors: Jingchu Gai*, <strong>Guanning Zeng*</strong>, Huaqing Zhang*, Aditi Raghunathan
     conference_short: ICML 2026
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
-    pdf: https://arxiv.org/abs/2511.19942
+    pdf: https://openreview.net/forum?id=vsErYkgeeU
     image: ./assets/img/papers/diffsmooth.jpg
 
   - title: "Demystifying Entropy Control in LLM RL Training: Theoretical Analysis and Dynamic Scheduling"
