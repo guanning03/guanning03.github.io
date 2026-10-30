@@ -4,7 +4,7 @@ layout: homepage
 
 ## About
 
-Guanning is a first-year Ph.D. student in the [Department of Electrical and Computer Engineering](https://www.ece.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), advised by Prof. [Andrea Zanette](https://azanette.com/). Before joining CMU, Guanning received a B.Eng. in Computer Science and Technology and a B.Ec. in Economics and Finance from [Tsinghua University](https://www.tsinghua.edu.cn/en/).
+I am a first-year Ph.D. student in the [Department of Electrical and Computer Engineering](https://www.ece.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), advised by Prof. [Andrea Zanette](https://azanette.com/). Before that, I received my B.Eng. in Computer Science and Technology and B.Ec. in Economics and Finance from [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
 ## Research Interests
 
