@@ -1,0 +1,64 @@
+main:
+
+  - title: "Maximum Likelihood Reinforcement Learning"
+    authors: Fahim Tajwar*, <strong>Guanning Zeng*</strong>, Yueer Zhou, Yuda Song, Daman Arora, Yiding Jiang, Jeff Schneider, Ruslan Salakhutdinov, Haiwen Feng, Andrea Zanette
+    conference_short: ICML 2026
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2602.02710
+    code: https://github.com/tajwarfahim/maxrl
+    page: https://zanette-labs.github.io/MaxRL/
+    notes: Spotlight · Best Paper at ICLR 2026 SPOT Workshop
+
+  - title: "Shrinking the Variance: Shrinkage Baselines for Reinforcement Learning with Verifiable Rewards"
+    authors: <strong>Guanning Zeng</strong>, Zhaoyi Zhou, Daman Arora, Andrea Zanette
+    conference_short: ICML 2026
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2511.03710
+
+  - title: "Differential Smoothing Mitigates Sharpening and Improves LLM Reasoning"
+    authors: Jingchu Gai*, <strong>Guanning Zeng*</strong>, Huaqing Zhang*, Aditi Raghunathan
+    conference_short: ICML 2026
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2511.19942
+
+  - title: "Demystifying Entropy Control in LLM RL Training: Theoretical Analysis and Dynamic Scheduling"
+    authors: Jingchu Gai*, <strong>Guanning Zeng*</strong>, Huaqing Zhang, Han Zhong, Yige Hong, Andrej Risteski, Aditi Raghunathan
+    conference_short: ICML 2026
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    pdf: https://openreview.net/pdf?id=hq2MPYXAko
+    notes: Spotlight
+
+  - title: "Physical Adversarial Clothing Evades Visible-Thermal Detectors with Non-Overlapping RGB-T Pattern"
+    authors: Xiaopei Zhu*, <strong>Guanning Zeng*</strong>, Zhanhao Hu, Jun Zhu, Xiaolin Hu
+    conference_short: CVPR 2026
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
+    pdf: https://openreview.net/pdf?id=KMtLgvt7mb
+    code: https://github.com/zxp555/RGBT-Clothing
+
+  - title: "YOLO-Count: Differentiable Object Counting for Text-to-Image Generation"
+    authors: <strong>Guanning Zeng</strong>, Xiang Zhang, Zirui Wang, Haiyang Xu, Zeyuan Chen, Bingnan Li, Zhuowen Tu
+    conference_short: ICCV 2025
+    conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2508.00728
+    code: https://github.com/mlpc-ucsd/YOLO-Count
+
+  - title: "ImageNet3D: Towards General-Purpose Object-Level 3D Understanding"
+    authors: Wufei Ma, Guofeng Zhang, Qihao Liu, <strong>Guanning Zeng</strong>, Adam Kortylewski, Yaoyao Liu, Alan Yuille
+    conference_short: NeurIPS 2024
+    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, Datasets and Benchmarks Track, 2024.
+    pdf: https://arxiv.org/abs/2406.09613
+    page: https://imagenet3d.github.io/
+
+  - title: "Natural Language Induced Adversarial Images"
+    authors: Xiaopei Zhu*, Peiyang Xu*, <strong>Guanning Zeng</strong>, Yinpeng Dong, Xiaolin Hu
+    conference_short: ACM MM 2024
+    conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2410.08620
+    code: https://github.com/zxp555/Natural-Language-Induced-Adversarial-Images
+
+  - title: "VideoDreamer: Customized Multi-Subject Text-to-Video Generation with Disen-Mix Finetuning"
+    authors: Hong Chen, Xin Wang, <strong>Guanning Zeng</strong>, Yipeng Zhang, Yuwei Zhou, Feilin Han, Wenwu Zhu
+    conference_short: IEEE TMM
+    conference: IEEE Transactions on Multimedia <strong>(TMM)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2311.00990
+    page: https://videodreamer23.github.io/
