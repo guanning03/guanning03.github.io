@@ -1,19 +1,21 @@
 # Basic Information
 title: Guanning Zeng
+title_zh: 曾冠宁
 position: Ph.D. Student
 affiliation: Carnegie Mellon University
 affiliation_link: https://www.ece.cmu.edu/
 email: guanninz (at) andrew.cmu.edu
+email_link: guanninz@andrew.cmu.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Guanning Zeng, Carnegie Mellon University, CMU, Tsinghua University, reinforcement learning, LLM reasoning, LLM agents, machine learning
+keywords: Guanning Zeng, 曾冠宁, Carnegie Mellon University, CMU, Tsinghua University, reinforcement learning, LLM reasoning, LLM agents, machine learning
 description: Guanning Zeng is a Ph.D. student at Carnegie Mellon University working on reinforcement learning and reasoning in LLM agents.
 canonical: https://guanning03.github.io/
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
-# google_scholar: https://scholar.google.com/citations?user=YOUR_ID
+google_scholar: https://scholar.google.com/citations?user=SU6ooAQAAAAJ&hl=en
 # cv_link: assets/files/cv.pdf
 github_link: https://github.com/guanning03
 

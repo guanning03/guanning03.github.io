@@ -5,11 +5,12 @@ Personal academic homepage of Guanning Zeng, built with Jekyll and the
 
 ## Editing
 
-- `_config.yml` — name, position, email, avatar and social links (Google Scholar / CV are commented out).
-- `index.md` — About Me, Research Interests, News, Research Experience, Education, Honors.
-- `_data/publications.yml` — publication list. Optional fields: `code`, `page`, `bibtex`, `notes`,
-  and `image` (a teaser picture; without it the venue badge is shown on the left).
-- `assets/img/` — avatar and favicons.
+- `_config.yml` — name, position, email, avatar and social links.
+- `index.md` — About Me, Research Interests, News, Research Experience, Honors.
+- `_data/publications.yml` — publication list. Every entry gets a "Paper" button (`pdf`) and a
+  "Project Page" button (`page`, falling back to `code`, then `pdf`). Optional: `notes`, and
+  `image` (a 2:1 teaser in `assets/img/papers/`; without it only the venue badge is shown).
+- `assets/img/` — avatar, favicons and paper teasers.
 
 Pushing to `main` redeploys the site automatically.
 

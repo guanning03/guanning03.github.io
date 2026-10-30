@@ -12,11 +12,12 @@ My current research focuses on **reinforcement learning** and reasoning in **LLM
 
 ## News
 
-- **[Aug. 2026]** Started my Ph.D. at CMU ECE, advised by Prof. Andrea Zanette.
-- **[May 2026]** Four papers accepted to ICML 2026, two as Spotlight!
+- **[Aug. 2026]** Started my Ph.D. at CMU ECE.
+- **[Jul. 2026]** Released [Schema](https://schema-harness.github.io/): Discovering Unknown Environments via Agentic Program Induction.
+- **[Jul. 2026]** Our paper on premature confidence in LLM reasoning is accepted to COLM 2026.
+- **[Jun. 2026]** Graduated from Tsinghua University.
+- **[May 2026]** Four first & co-first authored papers accepted to ICML 2026.
 - **[Apr. 2026]** MaxRL received the Best Paper Award at the ICLR 2026 SPOT Workshop.
-- **[Feb. 2026]** Our paper on physical adversarial clothing against RGB-T detectors is accepted to CVPR 2026.
-- **[Jun. 2025]** YOLO-Count is accepted to ICCV 2025.
 
 {% include_relative _includes/publications.md %}
 
@@ -28,21 +29,11 @@ My current research focuses on **reinforcement learning** and reasoning in **LLM
   Mitigating sharpening and mode collapse in RL fine-tuning; entropy control in LLM RL training.
 - **University of California San Diego**, with Prof. [Zhuowen Tu](https://pages.ucsd.edu/~ztu/) — Jun. 2024 – Jan. 2025  
   Differentiable open-vocabulary object counting for quantity control in text-to-image generation.
-- **Tsinghua University**, with Prof. [Xiaolin Hu](https://brain.tsinghua.edu.cn/en/info/1010/1007.htm) — Jun. 2023 – Dec. 2024  
-  Physical adversarial attacks on visible-thermal (RGB-T) pedestrian detectors.
-- **Tsinghua University**, with Prof. [Xin Wang](https://mn.cs.tsinghua.edu.cn/xinwang/) — Mar. 2023 – Oct. 2023  
-  Multi-subject customization for text-to-image and text-to-video diffusion models.
-
-## Education
-
-- **Carnegie Mellon University**, Pittsburgh, PA, USA — Aug. 2026 – Present  
-  Ph.D. in Electrical and Computer Engineering
-- **Tsinghua University**, Beijing, China — Aug. 2021 – Jun. 2026  
-  B.Eng. in Computer Science and Technology; B.Ec. in Economics and Finance
 
 ## Honors & Awards
 
 - Best Paper Award, ICLR 2026 SPOT Workshop, 2026
+- Outstanding Graduate, Department of Computer Science and Technology, Tsinghua University, 2026
 - Research Excellence Scholarship, Tsinghua University, 2024
 - Academic Excellence Scholarship, Tsinghua University, 2022, 2023, 2024
 - Citadel Scholarship, Tsinghua University, 2023

@@ -86,3 +86,14 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publications ol.bibliography li .venue { margin-bottom: 0.4rem; }
 .publications ol.bibliography li .venue abbr { min-width: 0; padding-left: 0.8rem; padding-right: 0.8rem; }
 }
+
+.publications ol.bibliography li .abbr { flex: 0 0 220px; height: auto; margin: 0; position: relative; align-self: flex-start; }
+
+.publications ol.bibliography li .teaser { display: block; width: 220px; height: 110px; margin: 4px 0 0; object-fit: contain; background: #fff; border-radius: 6px; box-shadow: 0 1px 6px rgba(0, 0, 0, 0.18); }
+
+.publications ol.bibliography li .abbr abbr { top: -2px; left: -6px; padding: 0.3em 0.6em; }
+
+@media print, screen and (max-width: 480px) {
+.publications ol.bibliography li .abbr { margin-bottom: 0.6rem; }
+.publications ol.bibliography li .teaser { width: 100%; height: auto; aspect-ratio: 2 / 1; }
+}
