@@ -36,11 +36,10 @@ main:
   - title: "Maximum Likelihood Reinforcement Learning"
     authors: Fahim Tajwar*, <strong>Guanning Zeng*</strong>, Yueer Zhou, Yuda Song, Daman Arora, Yiding Jiang, Jeff Schneider, Ruslan Salakhutdinov, Haiwen Feng, Andrea Zanette
     conference_short: ICML 2026
-    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    conference: Oral at International Conference on Machine Learning <strong>(ICML)</strong>, 2026.<br>Best Paper at ICLR 2026 SPOT Workshop.
     pdf: https://arxiv.org/abs/2602.02710
     code: https://github.com/tajwarfahim/maxrl
     page: https://zanette-labs.github.io/MaxRL/
-    notes: Oral at ICML 2026<br>Best Paper at ICLR 2026 SPOT Workshop
     image: ./assets/img/papers/maxrl.jpg
 
   - title: "Shrinking the Variance: Shrinkage Baselines for Reinforcement Learning with Verifiable Rewards"
@@ -60,9 +59,8 @@ main:
   - title: "Demystifying Entropy Control in LLM RL Training: Theoretical Analysis and Dynamic Scheduling"
     authors: Jingchu Gai*, <strong>Guanning Zeng*</strong>, Huaqing Zhang, Han Zhong, Yige Hong, Andrej Risteski, Aditi Raghunathan
     conference_short: ICML 2026
-    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    conference: Spotlight at International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
     pdf: https://proceedings.mlr.press/v306/gai26b.html
-    notes: Spotlight at ICML 2026
     image: ./assets/img/papers/entropy.jpg
 
   - title: "Physical Adversarial Clothing Evades Visible-Thermal Detectors with Non-Overlapping RGB-T Pattern"
