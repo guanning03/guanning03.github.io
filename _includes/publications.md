@@ -24,15 +24,15 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
-      </div>
-    <div class="links">
+    <div class="links" style="margin: 4px 0;">
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
       <a href="{{ project }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-      {% endif %}
     </div>
+      <div class="periodical"><em>{{ link.conference }}</em>
+      </div>
+      {% if link.notes %}
+      <div class="notes"><strong><i style="color:#e74d3c">{{ link.notes }}</i></strong></div>
+      {% endif %}
   </div>
 </div>
 </li>
