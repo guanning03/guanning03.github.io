@@ -2,6 +2,13 @@
 # "Project Page" links to `page`, falling back to `code`, then to `pdf`.
 main:
 
+  - title: "Speculative Decoding Is Less Speculative Than You Think"
+    authors: <strong>Guanning Zeng</strong>, Andrea Zanette
+    conference_short: Preprint
+    conference: arXiv preprint, 2026.
+    pdf: https://arxiv.org/abs/2611.27891
+    image: ./assets/img/papers/dice.jpg
+
   - title: "Schema: Discovering Unknown Environments via Agentic Program Induction"
     authors: <strong>Guanning Zeng</strong>, Jiani Wang, Wenjie Ma, Shaofeng Yin, Chenyang Wang, Shichen Liu, Angjoo Kanazawa, Wode Ni, Xiuyu Li, Andrea Zanette, Haiwen Feng
     conference_short: Preprint
