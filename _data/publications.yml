@@ -40,7 +40,7 @@ main:
     pdf: https://arxiv.org/abs/2602.02710
     code: https://github.com/tajwarfahim/maxrl
     page: https://zanette-labs.github.io/MaxRL/
-    notes: Oral · Best Paper at ICLR 2026 SPOT Workshop
+    notes: Oral<br>Best Paper at ICLR 2026 SPOT Workshop
     image: ./assets/img/papers/maxrl.jpg
 
   - title: "Shrinking the Variance: Shrinkage Baselines for Reinforcement Learning with Verifiable Rewards"
