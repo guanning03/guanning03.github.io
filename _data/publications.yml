@@ -40,7 +40,7 @@ main:
     pdf: https://arxiv.org/abs/2602.02710
     code: https://github.com/tajwarfahim/maxrl
     page: https://zanette-labs.github.io/MaxRL/
-    notes: Oral<br>Best Paper at ICLR 2026 SPOT Workshop
+    notes: Oral at ICML 2026<br>Best Paper at ICLR 2026 SPOT Workshop
     image: ./assets/img/papers/maxrl.jpg
 
   - title: "Shrinking the Variance: Shrinkage Baselines for Reinforcement Learning with Verifiable Rewards"
@@ -62,7 +62,7 @@ main:
     conference_short: ICML 2026
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
     pdf: https://proceedings.mlr.press/v306/gai26b.html
-    notes: Spotlight
+    notes: Spotlight at ICML 2026
     image: ./assets/img/papers/entropy.jpg
 
   - title: "Physical Adversarial Clothing Evades Visible-Thermal Detectors with Non-Overlapping RGB-T Pattern"
