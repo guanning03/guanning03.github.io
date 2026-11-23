@@ -12,6 +12,7 @@ My current research focuses on **reinforcement learning** and reasoning in **LLM
 
 ## News
 
+- **[Nov. 2026]** Released [Speculative Decoding Is Less Speculative Than You Think](https://arxiv.org/abs/2611.27891).
 - **[Aug. 2026]** Started my Ph.D. at CMU ECE.
 - **[Jul. 2026]** Released [Schema](https://schema-harness.github.io/): Discovering Unknown Environments via Agentic Program Induction.
 - **[Jul. 2026]** Our paper on premature confidence in LLM reasoning is accepted to COLM 2026.
