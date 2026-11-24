@@ -15,7 +15,7 @@ My current research focuses on **reinforcement learning** and reasoning in **LLM
 - **[Nov. 2026]** Released [Speculative Decoding Is Less Speculative Than You Think](https://arxiv.org/abs/2611.27891).
 - **[Aug. 2026]** Started my Ph.D. at CMU ECE.
 - **[Jul. 2026]** Released [Schema](https://schema-harness.github.io/): Discovering Unknown Environments via Agentic Program Induction.
-- **[Jul. 2026]** Our paper on premature confidence in LLM reasoning is accepted to COLM 2026.
+- **[Jul. 2026]** Our paper on [premature confidence in LLM reasoning](https://arxiv.org/abs/2605.24396) is accepted to COLM 2026.
 - **[Jun. 2026]** Graduated from Tsinghua University.
 - **[May 2026]** Four first & co-first authored papers accepted to ICML 2026.
 - **[Apr. 2026]** [MaxRL](https://zanette-labs.github.io/MaxRL/) received the <span class="pub-award">Best Paper Award</span> at the ICLR 2026 SPOT Workshop.
