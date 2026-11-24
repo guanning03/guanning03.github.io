@@ -22,6 +22,10 @@ My current research focuses on **reinforcement learning** and reasoning in **LLM
 
 {% include_relative _includes/publications.md %}
 
+## Talks
+
+- **[Jul. 2026]** [Maximum Likelihood Reinforcement Learning](https://zanette-labs.github.io/MaxRL/), <span class="pub-award">Oral</span> presentation at ICML 2026, Seoul, South Korea.
+
 ## Research Experience
 
 - **Carnegie Mellon University**, with Prof. [Andrea Zanette](https://azanette.com/) — Jan. 2025 – Present  
