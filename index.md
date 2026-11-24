@@ -18,7 +18,7 @@ My current research focuses on **reinforcement learning** and reasoning in **LLM
 - **[Jul. 2026]** Our paper on premature confidence in LLM reasoning is accepted to COLM 2026.
 - **[Jun. 2026]** Graduated from Tsinghua University.
 - **[May 2026]** Four first & co-first authored papers accepted to ICML 2026.
-- **[Apr. 2026]** MaxRL received the Best Paper Award at the ICLR 2026 SPOT Workshop.
+- **[Apr. 2026]** [MaxRL](https://zanette-labs.github.io/MaxRL/) received the <span class="pub-award">Best Paper Award</span> at the ICLR 2026 SPOT Workshop.
 
 {% include_relative _includes/publications.md %}
 
