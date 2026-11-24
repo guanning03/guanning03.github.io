@@ -28,7 +28,7 @@ main:
   - title: "Understanding and Mitigating Premature Confidence for Better LLM Reasoning"
     authors: Jingchu Gai*, <strong>Guanning Zeng*</strong>, Christina Baek*, Chen Wu*, J. Zico Kolter, Andrej Risteski, Aditi Raghunathan
     conference_short: COLM 2026
-    conference: Conference on Language Modeling <strong>(COLM)</strong>, 2026.
+    conference: <span class="pub-venue">Conference on Language Modeling <strong>(COLM)</strong></span>, 2026.
     pdf: https://arxiv.org/abs/2605.24396
     code: https://github.com/guanning03/CoT_Premature_Confidence
     image: ./assets/img/papers/premature.jpg
@@ -36,7 +36,7 @@ main:
   - title: "Maximum Likelihood Reinforcement Learning"
     authors: Fahim Tajwar*, <strong>Guanning Zeng*</strong>, Yueer Zhou, Yuda Song, Daman Arora, Yiding Jiang, Jeff Schneider, Ruslan Salakhutdinov, Haiwen Feng, Andrea Zanette
     conference_short: ICML 2026
-    conference: Oral at International Conference on Machine Learning <strong>(ICML)</strong>, 2026.<br>Best Paper at ICLR 2026 SPOT Workshop.
+    conference: <span class="pub-award">Oral</span> at <span class="pub-venue">International Conference on Machine Learning <strong>(ICML)</strong></span>, 2026.<br><span class="pub-award">Best Paper</span> at <span class="pub-venue">ICLR 2026 SPOT Workshop</span>.
     pdf: https://arxiv.org/abs/2602.02710
     code: https://github.com/tajwarfahim/maxrl
     page: https://zanette-labs.github.io/MaxRL/
@@ -45,28 +45,28 @@ main:
   - title: "Shrinking the Variance: Shrinkage Baselines for Reinforcement Learning with Verifiable Rewards"
     authors: <strong>Guanning Zeng</strong>, Zhaoyi Zhou, Daman Arora, Andrea Zanette
     conference_short: ICML 2026
-    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    conference: <span class="pub-venue">International Conference on Machine Learning <strong>(ICML)</strong></span>, 2026.
     pdf: https://arxiv.org/abs/2511.03710
     image: ./assets/img/papers/shrinkage.jpg
 
   - title: "Differential Smoothing Mitigates Sharpening and Improves LLM Reasoning"
     authors: Jingchu Gai*, <strong>Guanning Zeng*</strong>, Huaqing Zhang*, Aditi Raghunathan
     conference_short: ICML 2026
-    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    conference: <span class="pub-venue">International Conference on Machine Learning <strong>(ICML)</strong></span>, 2026.
     pdf: https://openreview.net/forum?id=vsErYkgeeU
     image: ./assets/img/papers/diffsmooth.jpg
 
   - title: "Demystifying Entropy Control in LLM RL Training: Theoretical Analysis and Dynamic Scheduling"
     authors: Jingchu Gai*, <strong>Guanning Zeng*</strong>, Huaqing Zhang, Han Zhong, Yige Hong, Andrej Risteski, Aditi Raghunathan
     conference_short: ICML 2026
-    conference: Spotlight at International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    conference: <span class="pub-award">Spotlight</span> at <span class="pub-venue">International Conference on Machine Learning <strong>(ICML)</strong></span>, 2026.
     pdf: https://proceedings.mlr.press/v306/gai26b.html
     image: ./assets/img/papers/entropy.jpg
 
   - title: "Physical Adversarial Clothing Evades Visible-Thermal Detectors with Non-Overlapping RGB-T Pattern"
     authors: Xiaopei Zhu*, <strong>Guanning Zeng*</strong>, Zhanhao Hu, Jun Zhu, Xiaolin Hu
     conference_short: CVPR 2026
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
+    conference: <span class="pub-venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong></span>, 2026.
     pdf: https://arxiv.org/abs/2605.04675
     code: https://github.com/zxp555/RGBT-Clothing
     image: ./assets/img/papers/rgbt.jpg
@@ -74,7 +74,7 @@ main:
   - title: "YOLO-Count: Differentiable Object Counting for Text-to-Image Generation"
     authors: <strong>Guanning Zeng</strong>, Xiang Zhang, Zirui Wang, Haiyang Xu, Zeyuan Chen, Bingnan Li, Zhuowen Tu
     conference_short: ICCV 2025
-    conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
+    conference: <span class="pub-venue">IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong></span>, 2025.
     pdf: https://arxiv.org/abs/2508.00728
     code: https://github.com/mlpc-ucsd/YOLO-Count
     image: ./assets/img/papers/yolocount.jpg
@@ -82,7 +82,7 @@ main:
   - title: "ImageNet3D: Towards General-Purpose Object-Level 3D Understanding"
     authors: Wufei Ma, Guofeng Zhang, Qihao Liu, <strong>Guanning Zeng</strong>, Adam Kortylewski, Yaoyao Liu, Alan Yuille
     conference_short: NeurIPS 2024
-    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, Datasets and Benchmarks Track, 2024.
+    conference: <span class="pub-venue">Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, Datasets and Benchmarks Track</span>, 2024.
     pdf: https://arxiv.org/abs/2406.09613
     page: https://imagenet3d.github.io/
     image: ./assets/img/papers/imagenet3d.jpg
@@ -90,7 +90,7 @@ main:
   - title: "Natural Language Induced Adversarial Images"
     authors: Xiaopei Zhu*, Peiyang Xu*, <strong>Guanning Zeng</strong>, Yinpeng Dong, Xiaolin Hu
     conference_short: ACM MM 2024
-    conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2024.
+    conference: <span class="pub-venue">ACM International Conference on Multimedia <strong>(ACM MM)</strong></span>, 2024.
     pdf: https://arxiv.org/abs/2410.08620
     code: https://github.com/zxp555/Natural-Language-Induced-Adversarial-Images
     image: ./assets/img/papers/nlai.jpg
@@ -98,7 +98,7 @@ main:
   - title: "VideoDreamer: Customized Multi-Subject Text-to-Video Generation with Disen-Mix Finetuning"
     authors: Hong Chen, Xin Wang, <strong>Guanning Zeng</strong>, Yipeng Zhang, Yuwei Zhou, Feilin Han, Wenwu Zhu
     conference_short: IEEE TMM
-    conference: IEEE Transactions on Multimedia <strong>(TMM)</strong>, 2024.
+    conference: <span class="pub-venue">IEEE Transactions on Multimedia <strong>(TMM)</strong></span>, 2024.
     pdf: https://arxiv.org/abs/2311.00990
     page: https://videodreamer23.github.io/
     image: ./assets/img/papers/videodreamer.jpg

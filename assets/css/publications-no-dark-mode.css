@@ -97,3 +97,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publications ol.bibliography li .abbr { margin-bottom: 0.6rem; }
 .publications ol.bibliography li .teaser { width: 100%; height: auto; aspect-ratio: 2 / 1; }
 }
+
+.publications .pub-award { color: #e74d3c; }
+
+.publications .pub-venue { color: #000080; }
