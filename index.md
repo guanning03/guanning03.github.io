@@ -24,7 +24,7 @@ My current research focuses on **reinforcement learning** and reasoning in **LLM
 
 ## Talks
 
-- **[Jul. 2026]** [Maximum Likelihood Reinforcement Learning](https://zanette-labs.github.io/MaxRL/), <span class="pub-award">Oral</span> presentation at ICML 2026, Seoul, South Korea.
+- **[Jul. 2026]** [Maximum Likelihood Reinforcement Learning](https://icml.cc/virtual/2026/oral/71072), <span class="pub-award">Oral</span> presentation at ICML 2026, Seoul, South Korea.
 
 ## Research Experience
 
